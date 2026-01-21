@@ -11,8 +11,11 @@ I am a software engineer focused on full-stack development, AI systems, and Pyth
 ## Flagship Projects
 - DataPulse AI: - DataPulse AI: Python automation and AI-driven log analysis for incident summarization  
   → Technical deep dive: [projects/datapulse-ai.md](projects/datapulse-ai.md)
-- Crypto Stream: full-stack real-time cryptocurrency tracking application
-- Emotive Chat: emotion-aware AI chatbot using sentiment and context analysis
+- CryptoStream: real-time cryptocurrency price streaming platform  
+  → Technical deep dive: [projects/crypto-stream.md](projects/crypto-stream.md)
+- EmotiveChat: BERT-based emotion classification for sentiment-aware conversations  
+  → Technical deep dive: [projects/emotive-chat.md](projects/emotive-chat.md)
+
 
 ## Technical Skills
 - Languages: Python, JavaScript, TypeScript, SQL
