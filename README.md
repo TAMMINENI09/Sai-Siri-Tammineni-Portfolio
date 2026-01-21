@@ -16,6 +16,11 @@ I am a software engineer focused on full-stack development, AI systems, and Pyth
 - EmotiveChat: BERT-based emotion classification for sentiment-aware conversations  
   → Technical deep dive: [projects/emotive-chat.md](projects/emotive-chat.md)
 
+## Learning Log
+This section captures cross-project engineering learnings and design
+patterns discovered while building real-world AI and real-time systems.
+
+→ Read the learning log: [learning-log/README.md](learning-log/README.md)
 
 ## Technical Skills
 - Languages: Python, JavaScript, TypeScript, SQL
