@@ -1,11 +1,8 @@
 # Experience
 
-## How This Experience Fits Into My Portfolio
-- These roles ground the portfolio’s project work in real-world systems and constraints.
-- The same themes show up across projects: automation, reliability, and ownership of end-to-end workflows.
 
 ## Software Development & Digital Systems Research Assistant
-**Texas A&M University–Corpus Christi — International Student Programs & Services (ISPS)**
+**Texas A&M Universityï¿½Corpus Christi ï¿½ International Student Programs & Services (ISPS)**
 This role centered on internal systems that had to be correct, traceable, and resilient under policy and compliance constraints. The work shaped how I think about data lifecycles, auditability, and designing automation that people can trust.
 - Built and maintained internal web tools that handled sensitive records with clear validation paths.
 - Automated steps in compliance-oriented workflows to reduce manual handling and error risk.
@@ -14,7 +11,7 @@ This role centered on internal systems that had to be correct, traceable, and re
 - The focus on traceability influenced how I design AI-assisted workflows later.
 
 ## Photography & Web Content Developer
-**Texas A&M University–Corpus Christi — Marketing & Communications**
+**Texas A&M Universityï¿½Corpus Christi ï¿½ Marketing & Communications**
 This role was about keeping digital content systems stable and usable while supporting time-sensitive updates. The constraints were practical: reliable publishing, accessible pages, and predictable performance under real traffic.
 - Shipped frontend changes that prioritized clarity, accessibility, and consistent layout behavior.
 - Built repeatable content pipelines that reduced manual edits and publishing errors.
