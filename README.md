@@ -43,8 +43,6 @@ that shaped my growth beyond technical projects and formal roles.
 - Data & Infra: PostgreSQL, Redis, Docker, REST APIs
 - Automation: scripting, task orchestration, system integrations
 
-## Learning Philosophy
-I focus on fundamentals first, then apply them through small, testable experiments. I document decisions, measure outcomes, and refine based on feedback to keep systems maintainable and easy to evolve.
 
 ## Contact
 - GitHub: https://github.com/<https://github.com/TAMMINENI09>
