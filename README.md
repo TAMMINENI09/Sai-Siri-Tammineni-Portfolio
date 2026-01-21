@@ -30,6 +30,12 @@ in practice.
 
 → View experience: [experience/README.md](experience/README.md)
 
+## Leadership & Recognition
+This section highlights leadership, community involvement, and recognition
+that shaped my growth beyond technical projects and formal roles.
+
+→ View section: [leadership-recognition/README.md](leadership-recognition/README.md)
+
 ## Technical Skills
 - Languages: Python, JavaScript, TypeScript, SQL
 - Frameworks: React, Node.js, Express
