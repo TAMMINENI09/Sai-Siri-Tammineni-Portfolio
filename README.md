@@ -22,6 +22,14 @@ patterns discovered while building real-world AI and real-time systems.
 
 → Read the learning log: [learning-log/README.md](learning-log/README.md)
 
+## Experience
+This section highlights applied engineering experience and the environments
+where I worked on real systems, automation, and production-oriented workflows.
+It complements the project deep dives by showing how these skills were used
+in practice.
+
+→ View experience: [experience/README.md](experience/README.md)
+
 ## Technical Skills
 - Languages: Python, JavaScript, TypeScript, SQL
 - Frameworks: React, Node.js, Express
