@@ -1,7 +1,7 @@
-# Sai Siri Tammineni — Portfolio
+# Sai Siri Tammineni Portfolio
 
 ## Overview
-I am a software engineer focused on full-stack development, AI systems, and Python automation. This repository curates selected projects and work samples that reflect how I build reliable software, ship practical AI features, and automate workflows end to end.
+I am a software engineer focused on full-stack development, AI systems, and Python automation. This repository showcases selected projects that reflect how I design reliable software, integrate practical AI features, and automate workflows end to end.
 
 ## Focus Areas
 - Full-stack applications with clean APIs and maintainable front-end architecture
@@ -9,7 +9,7 @@ I am a software engineer focused on full-stack development, AI systems, and Pyth
 - Python automation for data pipelines, developer tooling, and operational efficiency
 
 ## Flagship Projects
-- DataPulse AI: Python automation + AI for log analysis and incident summarization
+- DataPulse AI: DataPulse AI: Python automation and AI-driven log analysis for incident summarization
 - Crypto Stream: full-stack real-time cryptocurrency tracking application
 - Emotive Chat: emotion-aware AI chatbot using sentiment and context analysis
 
@@ -21,9 +21,9 @@ I am a software engineer focused on full-stack development, AI systems, and Pyth
 - Automation: scripting, task orchestration, system integrations
 
 ## Learning Philosophy
-I focus on fundamentals first, then apply them through small, testable experiments. I document decisions, measure outcomes, and refine based on feedback. This keeps my work grounded in evidence and makes it easier to maintain and extend.
+I focus on fundamentals first, then apply them through small, testable experiments. I document decisions, measure outcomes, and refine based on feedback to keep systems maintainable and easy to evolve.
 
 ## Contact
-- GitHub: https://github.com/<your-handle>
-- LinkedIn: https://www.linkedin.com/in/<your-handle>
-- Email: <your-email>
+- GitHub: https://github.com/<https://github.com/TAMMINENI09>
+- LinkedIn: https://www.linkedin.com/in/<http://linkedin.com/in/saisiritammineni/>
+- Email: <stamminenijobs@gmail.com>
